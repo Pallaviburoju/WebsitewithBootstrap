@@ -1,0 +1,19 @@
+.social a{
+    font-size:3em;
+    padding: 3rem;
+}
+.fa-facebook-official{
+    color: rgb(31, 31, 112);
+}
+.fa-instagram{
+    color:rgb(219, 25, 193);
+}
+.fa-twitter{
+    color:blue;
+}
+.fa-google-plus-official{
+    color:rgb(202, 5, 5);
+}
+.fa-youtube-play{
+    color:rgb(202, 5, 5);
+}
